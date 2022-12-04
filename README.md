@@ -1,5 +1,5 @@
 # DIP-Practicals
-Digital Image Processing Practicals-University of Delhi
+Digital Image Processing Practicals uaing SCILAB
 
 
 1. Write program to read and display digital image using MATLAB or SCILAB
